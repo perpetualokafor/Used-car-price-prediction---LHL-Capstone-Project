@@ -14,12 +14,9 @@ click-plugins==1.1.1
 cloudpickle==2.2.0
 cmdstanpy==1.0.7
 commonmark==0.9.1
-conda==22.9.0
 confection==0.0.3
 convertdate==2.4.0
 cymem==2.0.7
-dask==2022.9.1
-data-loader==0.0.0.0a0.dev20210626
 Distance==0.1.3
 distlib==0.3.6
 ephem==4.1.3

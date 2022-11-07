@@ -8,4 +8,6 @@ The data was gotten from [Kaggle](https://www.kaggle.com/datasets/austinreese/cr
 RadomForest regressor model was used to train the data. It had an R2 score of 0.77. 
 
 ## Model Deployment
-The deployed model can be found here.
+The model was tested by running the application.py file on the terminal and opening the web address that was generated.
+
+<img width="567" alt="Screen Shot 2022-11-07 at 2 43 48 AM" src="https://user-images.githubusercontent.com/106995962/200292022-4bac2095-6414-43fe-9378-5a245bd5a42d.png">
